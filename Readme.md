@@ -10,7 +10,7 @@
 
 ## Результаты
 
-Ссылка.
+https://github.com/kaolin19/netology-java-1.2-2/issues/1
 
 ## Общие рекомендации
 
